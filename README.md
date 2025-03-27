@@ -13,3 +13,4 @@ print(children)
 df.loc[:, 'Age'] = df['Age'].fillna(df['Age'].median())
 df.fillna({'Age': df['Age'].median()}, inplace=True)
 print(df)
+THE OUTPUT SCREENSHOTS ARE ATTACHED
