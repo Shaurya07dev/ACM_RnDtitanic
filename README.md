@@ -1,4 +1,4 @@
-![Screenshot 2025-03-28 024740](https://github.com/user-attachments/assets/4e411958-6a4b-45a3-a5c5-dee429bd7344)
+
 The project is done in jupyter notebook
 codes:
 import pandas as pd
